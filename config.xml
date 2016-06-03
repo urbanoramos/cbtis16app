@@ -7,10 +7,10 @@
 		
 	<!--versionCode is opcional and Android only-->
 	
-	<name>Aplicacion tres volcan Popocatepetl</name>
+	<name>CBTis N°16</name>
 	
 	<description>
-	    Aplicacion que muestra informacion sobre el volcan popocatepetl
+	    Aplicacion que muestra informacion sobre el CBTis N°16
 	</description>
 	
 	<preference name="phonegap-version" value="3.1.0" />
